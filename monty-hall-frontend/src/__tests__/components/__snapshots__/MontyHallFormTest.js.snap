@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<div
+  className="MontyHallForm"
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <label
+      htmlFor="strategy"
+    >
+      Pick your strategy:
+    </label>
+    <select
+      id="strategy"
+      onChange={[Function]}
+      value="SWITCH"
+    >
+      <option
+        value="SWITCH"
+      >
+        Switch door
+      </option>
+      <option
+        value="KEEP"
+      >
+        Keep door
+      </option>
+      <option
+        value="RANDOM"
+      >
+        Random switch or keep
+      </option>
+    </select>
+    <label
+      htmlFor="iterations"
+    >
+      Pick number of iterations
+    </label>
+    <input
+      id="iterations"
+      max="100000"
+      min="1"
+      onChange={[Function]}
+      type="number"
+      value={1000}
+    />
+    <input
+      type="submit"
+      value="Start simulation"
+    />
+  </form>
+</div>
+`;

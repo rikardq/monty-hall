@@ -1,0 +1,8 @@
+.MontyHallResult {
+    flex: 1;
+    flex-direction: column;
+    display: flex;
+    background-color: #222;
+    color: white;
+    min-height: 100vh;
+}

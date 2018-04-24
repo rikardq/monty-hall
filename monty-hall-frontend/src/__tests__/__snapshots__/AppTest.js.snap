@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App-header"
+  >
+    <BackendHealth />
+    <img
+      alt="logo"
+      className="App-monty"
+      src="monty.jpg"
+    />
+    <h1
+      className="App-title"
+    >
+      Welcome to the Monty Hall Simulator
+    </h1>
+  </header>
+  <MontyHallContainer />
+</div>
+`;

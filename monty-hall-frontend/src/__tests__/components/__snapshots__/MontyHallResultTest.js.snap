@@ -1,0 +1,55 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders without crashing 1`] = `
+<div
+  className="MontyHallResult"
+>
+  <h1>
+    Results
+  </h1>
+  <table>
+    <tr>
+      <th>
+        Run
+      </th>
+      <th>
+        Losses
+      </th>
+      <th>
+        Wins
+      </th>
+      <th>
+        Strategy
+      </th>
+      <th>
+        simulations
+      </th>
+      <th>
+        Win percentage
+      </th>
+    </tr>
+    <tr
+      key="0"
+    >
+      <td>
+        1
+      </td>
+      <td>
+        51
+      </td>
+      <td>
+        49
+      </td>
+      <td>
+        RANDOM
+      </td>
+      <td>
+        100
+      </td>
+      <td>
+        49
+      </td>
+    </tr>
+  </table>
+</div>
+`;
