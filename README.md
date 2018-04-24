@@ -1,6 +1,6 @@
 # crm-monty-hall-test
 
-Ett förberett projekt baserat på create-react-app och spring initializr.
+Ett projekt som simulerar monty-hall problemet
 
 #### Systemkrav
 
