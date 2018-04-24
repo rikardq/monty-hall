@@ -11,14 +11,14 @@ Ett förberett projekt baserat på create-react-app och spring initializr.
 
 #### Starta frontend
 ```
-cd frontend
+cd monty-hall-frontend
 npm install
 npm start
 ```
 
 #### Starta backend
 ```
-cd backend
+cd monty-hall-backend
 mvn install
 java -jar target/monty-hall-0.0.1-SNAPSHOT.jar   
 ```
