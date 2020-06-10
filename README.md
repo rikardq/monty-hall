@@ -1,6 +1,6 @@
 # crm-monty-hall-test
 
-Ett projekt som simulerar monty-hall problemet
+Ett projekt som simulerar monty-hall problemet.
 
 #### Systemkrav
 
